@@ -1,0 +1,48 @@
+{
+  "countries": [
+    {
+      "id": 1,
+      "name": "Australia",
+      "cities": [
+        {
+          "name": "Sydney, Australia",
+          "imageUrl": "sydney.jpg",
+          "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House."
+        },
+        {
+          "name": "Melbourne, Australia",
+          "imageUrl": "melbourne.jpg",
+          "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
+        }
+      ]
+    }
+  ],
+  "temples": [
+    {
+      "id": 1,
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "temple1.jpg",
+      "description": "A UNESCO World Heritage site and the largest religious monument in the world."
+    },
+    {
+      "id": 2,
+      "name": "Taj Mahal, India",
+      "imageUrl": "temple2.jpg",
+      "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
+    }
+  ],
+  "beaches": [
+    {
+      "id": 1,
+      "name": "Bora Bora, French Polynesia",
+      "imageUrl": "beach1.jpg",
+      "description": "An island known for its stunning turquoise waters and luxury bungalows."
+    },
+    {
+      "id": 2,
+      "name": "Copacabana Beach, Brazil",
+      "imageUrl": "beach2.jpg",
+      "description": "A famous beach in Rio de Janeiro with a vibrant atmosphere."
+    }
+  ]
+}
